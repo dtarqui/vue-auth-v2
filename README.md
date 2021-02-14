@@ -1,4 +1,4 @@
-# vue_auth
+# Vue - Authentication
 
 ## Description
 Vue v2 project, authentication with firebase as backend.
