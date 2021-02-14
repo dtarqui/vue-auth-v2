@@ -1,5 +1,8 @@
 # vue_auth
 
+## Description
+Vue v2 project, authentication with firebase as backend.
+
 ## Project setup
 ```
 npm install
@@ -23,7 +26,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-
-[JWT](https://jwt.io/)
-[Firebase Auth REST API](https://firebase.google.com/docs/reference/rest/auth/)
-[Authenticating Requests to the Firebase Database REST Endpoints](https://firebase.google.com/docs/database/rest/auth)
+### Usefull links
+See [JWT](https://jwt.io/)
+See [Firebase Auth REST API](https://firebase.google.com/docs/reference/rest/auth/)
+See [Authenticating Requests to the Firebase Database REST Endpoints](https://firebase.google.com/docs/database/rest/auth)
